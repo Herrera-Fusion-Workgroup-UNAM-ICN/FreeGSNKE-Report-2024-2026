@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  20 FEB 2026 16:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  26 FEB 2026 21:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1372,13 +1372,8 @@ LaTeX Font Info:    Trying to load font information for U+ifsym on input line 8
 (/usr/local/texlive/2025/texmf-dist/tex/latex/ifsym/uifsym.fd)
 Package microtype Info: Fixing zero \fontdimen 6 for font `U/ifsym/m/n/8'
 (microtype)             (new value: 8.0pt) on input line 81.
-
-Underfull \hbox (badness 5504) in paragraph at lines 83--83
-\T1/qpl/b/n/10.95 (+20) Keywords\T1/qpl/m/n/10.95 (+20) : \T1/qpl/m/n/10 (+20) 
-Key-words 1, key-words 2, key-words 3,
- []
-
 Package mdframed Info: mdframed works in twoside mode on input line 87.
+
 
 Package hyperref Warning: Option `colorlinks' has already been used,
 (hyperref)                setting the option has no effect on input line 87.
@@ -1389,6 +1384,12 @@ LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
 (Font)              scaled to size 8.50006pt on input line 87.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/it' will be
 (Font)              scaled to size 8.50006pt on input line 87.
+
+Underfull \hbox (badness 1152) in paragraph at lines 87--87
+\T1/lato-TLF/m/n/10 (+20) Camacho Lopez An-drés, Yafté S.A., & Solís Ruiz Juan 
+Pablo.
+ []
+
 LaTeX Font Info:    Trying to load font information for TS1+lato-TLF on input l
 ine 87.
 (/usr/local/texlive/2025/texmf-dist/tex/latex/lato/TS1lato-TLF.fd
@@ -1408,18 +1409,18 @@ Package mdframed Info: mdframed inside a box
 
 
 
-<res/pub-logo.png, id=53, 1442.38875pt x 547.04375pt>
+<res/pub-logo.png, id=55, 1442.38875pt x 547.04375pt>
 File: res/pub-logo.png Graphic file (type png)
 <use res/pub-logo.png>
-Package pdftex.def Info: res/pub-logo.png  used on input line 107.
+Package pdftex.def Info: res/pub-logo.png  used on input line 111.
 (pdftex.def)             Requested size: 36.05083pt x 13.67271pt.
 
 Overfull \vbox (8.32239pt too high) has occurred while \output is active []
 
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 126.97133pt on input line 107.
+(Font)              scaled to size 126.97133pt on input line 111.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 126.97133pt on input line 107.
+(Font)              scaled to size 126.97133pt on input line 111.
 
 [1{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/l
 ocal/texlive/2025/texmf-dist/fonts/enc/dvips/lato/a_cl4kdn.enc}{/usr/local/texl
@@ -1433,13 +1434,13 @@ Underfull \hbox (badness 2608) in paragraph at lines 128--129
  []
 
 
-
-
 Underfull \hbox (badness 1331) in paragraph at lines 131--133
 \T1/qpl/m/n/10.95 (+20) Experiments and re-sults should be given in this
  []
 
-<figures/fig1.png, id=84, 1778.645pt x 1342.01375pt>
+
+
+<figures/fig1.png, id=86, 1778.645pt x 1342.01375pt>
 File: figures/fig1.png Graphic file (type png)
 <use figures/fig1.png>
 Package pdftex.def Info: figures/fig1.png  used on input line 136.
@@ -1452,21 +1453,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 142--142
  []
 
 
+Underfull \vbox (badness 4531) has occurred while \output is active []
+
+
 
 File: res/pub-logo.png Graphic file (type png)
 <use res/pub-logo.png>
-Package pdftex.def Info: res/pub-logo.png  used on input line 142.
+Package pdftex.def Info: res/pub-logo.png  used on input line 166.
 (pdftex.def)             Requested size: 36.05083pt x 13.67271pt.
 
 Overfull \vbox (1.67271pt too high) has occurred while \output is active []
 
 
 [2 <./figures/fig1.png>]
-
-
 Underfull \hbox (badness 1521) in paragraph at lines 199--200
 \T1/qpl/m/n/10 (+20) dis-tri-bu-tion syn-the-sis the-ory. Chi-nese Jour-nal of
  []
+
+
 
 <figures/author1.png, id=101, 508.90125pt x 608.2725pt>
 File: figures/author1.png Graphic file (type png)
@@ -1524,11 +1528,11 @@ Package rerunfilecheck Info: File `mauscript.out' has not changed.
 (rerunfilecheck)             Checksum: 8A76AB1B2D6B39980EE86A3435712F44;795.
  ) 
 Here is how much of TeX's memory you used:
- 31686 strings out of 473190
- 587010 string characters out of 5715801
- 1115612 words of memory out of 5000000
+ 31685 strings out of 473190
+ 587041 string characters out of 5715801
+ 1115933 words of memory out of 5000000
  54143 multiletter control sequences out of 15000+600000
- 829291 words of font info for 197 fonts, out of 8000000 for 9000
+ 829627 words of font info for 197 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  124i,12n,139p,1198b,1067s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </Users/yafte/Library/texlive/2025/texmf-var/fonts/pk/ljfour/public/ifsym/if
@@ -1538,7 +1542,7 @@ lic.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/typoland/lato/Lato-Regu
 lar.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/tex-gyre/qplb.pf
 b></usr/local/texlive/2025/texmf-dist/fonts/type1/public/tex-gyre/qplr.pfb></us
 r/local/texlive/2025/texmf-dist/fonts/type1/public/tex-gyre/qplri.pfb>
-Output written on mauscript.pdf (3 pages, 1395245 bytes).
+Output written on mauscript.pdf (3 pages, 1404790 bytes).
 PDF statistics:
  152 PDF objects out of 1000 (max. 8388607)
  115 compressed objects within 2 object streams
